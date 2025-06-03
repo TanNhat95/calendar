@@ -13,6 +13,7 @@ module.exports = {
         'dark-blue': '#0F4C81',
         'light-orange': '#FFE4C8',
         'dark-orange': '#F9BE81',
+        'deep-orange': '#FF6600',
         'calendar-tile': '#E4F6ED',
       },
       padding: {
